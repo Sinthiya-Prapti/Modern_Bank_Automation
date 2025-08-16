@@ -1,0 +1,661 @@
+2025-08-17 00:45:29,219 - INFO - Starting browser session with firefox...
+2025-08-17 00:45:38,177 - INFO - firefox browser launched successfully.
+2025-08-17 00:45:39,368 - INFO - URL opened successfully.
+2025-08-17 00:45:39,370 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 00:45:39,370 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 00:45:52,813 - ERROR - Element 'Open Your Account Button' not found with Explicit wait.
+2025-08-17 00:45:53,361 - INFO - Script complete.
+2025-08-17 00:45:55,563 - INFO - Ending browser session...
+2025-08-17 00:45:55,563 - INFO - ...................
+2025-08-17 00:45:55,564 - INFO - ...................
+2025-08-17 00:45:55,570 - INFO - Starting browser session with firefox...
+2025-08-17 00:46:03,855 - INFO - firefox browser launched successfully.
+2025-08-17 00:46:04,901 - INFO - URL opened successfully.
+2025-08-17 00:46:04,903 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 00:46:04,904 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:47:12,192 - INFO - Starting browser session with firefox...
+2025-08-17 00:47:20,613 - INFO - firefox browser launched successfully.
+2025-08-17 00:47:21,348 - INFO - URL opened successfully.
+2025-08-17 00:47:21,350 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 00:47:21,351 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 00:47:36,394 - ERROR - Element 'Open Your Account Button' not found with Explicit wait.
+2025-08-17 00:47:36,920 - INFO - Script complete.
+2025-08-17 00:50:28,050 - INFO - Starting browser session with firefox...
+2025-08-17 00:50:36,643 - INFO - firefox browser launched successfully.
+2025-08-17 00:50:39,115 - INFO - URL opened successfully.
+2025-08-17 00:50:39,116 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 00:50:39,116 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 00:50:39,297 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:50:41,408 - INFO - Empty Full Name Enter successfully.
+2025-08-17 00:50:41,463 - INFO - Valid Email Enter successfully.
+2025-08-17 00:50:41,511 - INFO - Valid Password Enter successfully.
+2025-08-17 00:50:41,569 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:50:41,689 - INFO - Click on Register button successfully.
+2025-08-17 00:50:41,710 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:50:41,710 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 00:50:41,712 - INFO - Script complete.
+2025-08-17 00:50:46,010 - INFO - Ending browser session...
+2025-08-17 00:50:46,010 - INFO - ...................
+2025-08-17 00:50:46,010 - INFO - ...................
+2025-08-17 00:50:46,013 - INFO - Starting browser session with firefox...
+2025-08-17 00:50:54,204 - INFO - firefox browser launched successfully.
+2025-08-17 00:50:56,264 - INFO - URL opened successfully.
+2025-08-17 00:50:56,265 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 00:50:56,266 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:50:56,505 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:50:58,669 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:50:58,707 - INFO - Empty Email Enter successfully.
+2025-08-17 00:50:58,757 - INFO - Valid Password Enter successfully.
+2025-08-17 00:50:58,806 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:50:58,919 - INFO - Click on Register button successfully.
+2025-08-17 00:50:58,961 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:50:58,961 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 00:50:58,967 - INFO - Script complete.
+2025-08-17 00:51:02,902 - INFO - Ending browser session...
+2025-08-17 00:51:02,903 - INFO - ...................
+2025-08-17 00:51:02,903 - INFO - ...................
+2025-08-17 00:51:02,908 - INFO - Starting browser session with firefox...
+2025-08-17 00:51:11,150 - INFO - firefox browser launched successfully.
+2025-08-17 00:51:13,252 - INFO - URL opened successfully.
+2025-08-17 00:51:13,254 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 00:51:13,254 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:51:14,050 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:51:16,160 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:51:16,201 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 00:51:16,241 - INFO - Valid Password Enter successfully.
+2025-08-17 00:51:16,282 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:51:16,404 - INFO - Click on Register button successfully.
+2025-08-17 00:51:16,419 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:51:16,731 - INFO - Script complete.
+2025-08-17 00:51:20,642 - INFO - Ending browser session...
+2025-08-17 00:51:20,643 - INFO - ...................
+2025-08-17 00:51:20,643 - INFO - ...................
+2025-08-17 00:51:20,648 - INFO - Starting browser session with firefox...
+2025-08-17 00:51:28,974 - INFO - firefox browser launched successfully.
+2025-08-17 00:51:31,159 - INFO - URL opened successfully.
+2025-08-17 00:51:31,160 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 00:51:31,161 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:51:31,394 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:51:34,523 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:51:34,570 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 00:51:34,614 - INFO - Valid Password Enter successfully.
+2025-08-17 00:51:34,658 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:51:34,788 - INFO - Click on Register button successfully.
+2025-08-17 00:51:34,809 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:51:34,827 - INFO - Script complete.
+2025-08-17 00:51:38,914 - INFO - Ending browser session...
+2025-08-17 00:51:38,915 - INFO - ...................
+2025-08-17 00:51:38,915 - INFO - ...................
+2025-08-17 00:51:38,919 - INFO - Starting browser session with firefox...
+2025-08-17 00:51:47,126 - INFO - firefox browser launched successfully.
+2025-08-17 00:51:49,321 - INFO - URL opened successfully.
+2025-08-17 00:51:49,322 - INFO - TC_MB_CUS_005 Started..
+2025-08-17 00:51:49,322 - INFO - Verify customer registration fails with invalid Password (Empty) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 00:51:49,505 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:51:52,683 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:51:52,738 - INFO - Valid Email Enter successfully.
+2025-08-17 00:51:52,764 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 00:51:52,814 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:51:52,920 - INFO - Click on Register button successfully.
+2025-08-17 00:51:52,934 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:51:52,934 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 00:51:52,940 - INFO - Script complete.
+2025-08-17 00:51:56,746 - INFO - Ending browser session...
+2025-08-17 00:51:56,746 - INFO - ...................
+2025-08-17 00:51:56,746 - INFO - ...................
+2025-08-17 00:51:56,754 - INFO - Starting browser session with firefox...
+2025-08-17 00:52:05,090 - INFO - firefox browser launched successfully.
+2025-08-17 00:52:07,233 - INFO - URL opened successfully.
+2025-08-17 00:52:07,234 - INFO - TC_MB_CUS_006 Started..
+2025-08-17 00:52:07,235 - INFO - Verify customer registration fails with invalid Password (< 6 Char) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 00:52:07,491 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:52:09,622 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:52:09,675 - INFO - Valid Email Enter successfully.
+2025-08-17 00:52:09,713 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 00:52:09,754 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:52:09,906 - INFO - Click on Register button successfully.
+2025-08-17 00:52:11,949 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:52:11,949 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 00:52:11,952 - INFO - Script complete.
+2025-08-17 00:52:15,791 - INFO - Ending browser session...
+2025-08-17 00:52:15,791 - INFO - ...................
+2025-08-17 00:52:15,792 - INFO - ...................
+2025-08-17 00:52:15,796 - INFO - Starting browser session with firefox...
+2025-08-17 00:52:24,135 - INFO - firefox browser launched successfully.
+2025-08-17 00:52:26,246 - INFO - URL opened successfully.
+2025-08-17 00:52:26,248 - INFO - TC_MB_CUS_007 Started..
+2025-08-17 00:52:26,248 - INFO - Verify customer registration fails with invalid Initial Deposit Amount (Empty) and valid Full Name, Email Address and Password.
+2025-08-17 00:52:27,396 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:52:29,575 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:52:29,629 - INFO - Valid Email Enter successfully.
+2025-08-17 00:52:29,667 - INFO - Valid Password Enter successfully.
+2025-08-17 00:52:29,698 - INFO - Invalid Initial Deposit Amount (empty) Enter successfully.
+2025-08-17 00:52:29,817 - INFO - Click on Register button successfully.
+2025-08-17 00:52:31,847 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:52:31,865 - INFO - Script complete.
+2025-08-17 00:52:35,723 - INFO - Ending browser session...
+2025-08-17 00:52:35,723 - INFO - ...................
+2025-08-17 00:52:35,724 - INFO - ...................
+2025-08-17 00:55:19,661 - INFO - Starting browser session with firefox...
+2025-08-17 00:55:28,035 - INFO - firefox browser launched successfully.
+2025-08-17 00:55:30,566 - INFO - URL opened successfully.
+2025-08-17 00:55:30,568 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 00:55:30,568 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 00:55:31,334 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:55:33,526 - INFO - Empty Full Name Enter successfully.
+2025-08-17 00:55:33,580 - INFO - Valid Email Enter successfully.
+2025-08-17 00:55:33,626 - INFO - Valid Password Enter successfully.
+2025-08-17 00:55:33,670 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:55:33,772 - INFO - Click on Register button successfully.
+2025-08-17 00:55:33,784 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:55:33,784 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 00:55:33,785 - INFO - Script complete.
+2025-08-17 00:55:37,753 - INFO - Ending browser session...
+2025-08-17 00:55:37,753 - INFO - ...................
+2025-08-17 00:55:37,754 - INFO - ...................
+2025-08-17 00:55:37,759 - INFO - Starting browser session with firefox...
+2025-08-17 00:55:46,059 - INFO - firefox browser launched successfully.
+2025-08-17 00:55:47,951 - INFO - URL opened successfully.
+2025-08-17 00:55:47,952 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 00:55:47,953 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:55:48,110 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:55:50,222 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:55:50,259 - INFO - Empty Email Enter successfully.
+2025-08-17 00:55:50,309 - INFO - Valid Password Enter successfully.
+2025-08-17 00:55:50,356 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:55:50,463 - INFO - Click on Register button successfully.
+2025-08-17 00:55:50,477 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:55:50,477 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 00:55:50,479 - INFO - Script complete.
+2025-08-17 00:55:54,175 - INFO - Ending browser session...
+2025-08-17 00:55:54,175 - INFO - ...................
+2025-08-17 00:55:54,175 - INFO - ...................
+2025-08-17 00:55:54,179 - INFO - Starting browser session with firefox...
+2025-08-17 00:56:02,621 - INFO - firefox browser launched successfully.
+2025-08-17 00:56:04,702 - INFO - URL opened successfully.
+2025-08-17 00:56:04,704 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 00:56:04,705 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:56:04,950 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:56:07,080 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:56:07,124 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 00:56:07,164 - INFO - Valid Password Enter successfully.
+2025-08-17 00:56:07,205 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:56:07,316 - INFO - Click on Register button successfully.
+2025-08-17 00:56:07,333 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:56:07,640 - INFO - Script complete.
+2025-08-17 00:56:11,402 - INFO - Ending browser session...
+2025-08-17 00:56:11,403 - INFO - ...................
+2025-08-17 00:56:11,403 - INFO - ...................
+2025-08-17 00:56:11,407 - INFO - Starting browser session with firefox...
+2025-08-17 00:56:19,818 - INFO - firefox browser launched successfully.
+2025-08-17 00:56:22,100 - INFO - URL opened successfully.
+2025-08-17 00:56:22,101 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 00:56:22,101 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 00:56:22,315 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:56:25,502 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:56:25,548 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 00:56:25,595 - INFO - Valid Password Enter successfully.
+2025-08-17 00:56:25,645 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:56:25,756 - INFO - Click on Register button successfully.
+2025-08-17 00:56:25,775 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:56:25,793 - INFO - Script complete.
+2025-08-17 00:56:29,495 - INFO - Ending browser session...
+2025-08-17 00:56:29,496 - INFO - ...................
+2025-08-17 00:56:29,496 - INFO - ...................
+2025-08-17 00:56:29,500 - INFO - Starting browser session with firefox...
+2025-08-17 00:56:37,721 - INFO - firefox browser launched successfully.
+2025-08-17 00:56:39,561 - INFO - URL opened successfully.
+2025-08-17 00:56:39,562 - INFO - TC_MB_CUS_005 Started..
+2025-08-17 00:56:39,562 - INFO - Verify customer registration fails with invalid Password (Empty) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 00:56:39,719 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:56:42,827 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:56:42,875 - INFO - Valid Email Enter successfully.
+2025-08-17 00:56:42,900 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 00:56:42,954 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:56:43,056 - INFO - Click on Register button successfully.
+2025-08-17 00:56:43,070 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:56:43,070 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 00:56:43,075 - INFO - Script complete.
+2025-08-17 00:56:47,148 - INFO - Ending browser session...
+2025-08-17 00:56:47,148 - INFO - ...................
+2025-08-17 00:56:47,149 - INFO - ...................
+2025-08-17 00:56:47,153 - INFO - Starting browser session with firefox...
+2025-08-17 00:56:55,529 - INFO - firefox browser launched successfully.
+2025-08-17 00:56:57,463 - INFO - URL opened successfully.
+2025-08-17 00:56:57,464 - INFO - TC_MB_CUS_006 Started..
+2025-08-17 00:56:57,464 - INFO - Verify customer registration fails with invalid Password (< 6 Char) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 00:56:57,708 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:56:59,835 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:56:59,885 - INFO - Valid Email Enter successfully.
+2025-08-17 00:56:59,926 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 00:56:59,973 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 00:57:00,127 - INFO - Click on Register button successfully.
+2025-08-17 00:57:02,183 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 00:57:02,184 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 00:57:02,188 - INFO - Script complete.
+2025-08-17 00:57:05,949 - INFO - Ending browser session...
+2025-08-17 00:57:05,949 - INFO - ...................
+2025-08-17 00:57:05,949 - INFO - ...................
+2025-08-17 00:57:05,954 - INFO - Starting browser session with firefox...
+2025-08-17 00:57:14,116 - INFO - firefox browser launched successfully.
+2025-08-17 00:57:16,515 - INFO - URL opened successfully.
+2025-08-17 00:57:16,517 - INFO - TC_MB_CUS_007 Started..
+2025-08-17 00:57:16,517 - INFO - Verify customer registration fails with invalid Initial Deposit Amount (Empty) and valid Full Name, Email Address and Password.
+2025-08-17 00:57:16,703 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 00:57:18,878 - INFO - Valid Full Name Enter successfully.
+2025-08-17 00:57:18,942 - INFO - Valid Email Enter successfully.
+2025-08-17 00:57:19,037 - INFO - Valid Password Enter successfully.
+2025-08-17 00:57:19,078 - INFO - Invalid Initial Deposit Amount (empty) Enter successfully.
+2025-08-17 00:57:19,279 - INFO - Click on Register button successfully.
+2025-08-17 00:57:21,307 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 00:57:21,337 - INFO - Script complete.
+2025-08-17 00:57:25,135 - INFO - Ending browser session...
+2025-08-17 00:57:25,135 - INFO - ...................
+2025-08-17 00:57:25,136 - INFO - ...................
+2025-08-17 01:05:47,335 - INFO - Starting browser session with firefox...
+2025-08-17 01:05:55,765 - INFO - firefox browser launched successfully.
+2025-08-17 01:05:58,524 - INFO - URL opened successfully.
+2025-08-17 01:05:58,526 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 01:05:58,526 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 01:05:59,130 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:06:01,237 - INFO - Empty Full Name Enter successfully.
+2025-08-17 01:06:01,285 - INFO - Valid Email Enter successfully.
+2025-08-17 01:06:01,327 - INFO - Valid Password Enter successfully.
+2025-08-17 01:06:01,369 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:06:01,481 - INFO - Click on Register button successfully.
+2025-08-17 01:06:01,515 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:06:01,515 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 01:06:01,517 - INFO - Script complete.
+2025-08-17 01:06:05,545 - INFO - Ending browser session...
+2025-08-17 01:06:05,545 - INFO - ...................
+2025-08-17 01:06:05,546 - INFO - ...................
+2025-08-17 01:06:05,548 - INFO - Starting browser session with firefox...
+2025-08-17 01:06:14,128 - INFO - firefox browser launched successfully.
+2025-08-17 01:06:16,275 - INFO - URL opened successfully.
+2025-08-17 01:06:16,277 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 01:06:16,277 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:06:16,540 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:06:18,720 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:06:18,748 - INFO - Empty Email Enter successfully.
+2025-08-17 01:06:18,801 - INFO - Valid Password Enter successfully.
+2025-08-17 01:06:18,842 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:06:18,958 - INFO - Click on Register button successfully.
+2025-08-17 01:06:19,004 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:06:19,005 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 01:06:19,011 - INFO - Script complete.
+2025-08-17 01:06:23,063 - INFO - Ending browser session...
+2025-08-17 01:06:23,064 - INFO - ...................
+2025-08-17 01:06:23,064 - INFO - ...................
+2025-08-17 01:06:23,069 - INFO - Starting browser session with firefox...
+2025-08-17 01:06:31,510 - INFO - firefox browser launched successfully.
+2025-08-17 01:06:33,632 - INFO - URL opened successfully.
+2025-08-17 01:06:33,633 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 01:06:33,633 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:06:33,812 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:06:35,942 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:06:35,988 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 01:06:36,031 - INFO - Valid Password Enter successfully.
+2025-08-17 01:06:36,077 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:06:36,199 - INFO - Click on Register button successfully.
+2025-08-17 01:06:36,211 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:06:37,029 - INFO - Script complete.
+2025-08-17 01:06:41,474 - INFO - Ending browser session...
+2025-08-17 01:06:41,475 - INFO - ...................
+2025-08-17 01:06:41,475 - INFO - ...................
+2025-08-17 01:06:41,481 - INFO - Starting browser session with firefox...
+2025-08-17 01:06:49,924 - INFO - firefox browser launched successfully.
+2025-08-17 01:06:52,037 - INFO - URL opened successfully.
+2025-08-17 01:06:52,038 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 01:06:52,038 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:06:52,268 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:06:55,467 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:06:55,510 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 01:06:55,550 - INFO - Valid Password Enter successfully.
+2025-08-17 01:06:55,591 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:06:55,704 - INFO - Click on Register button successfully.
+2025-08-17 01:06:55,726 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:06:56,324 - INFO - Script complete.
+2025-08-17 01:07:00,640 - INFO - Ending browser session...
+2025-08-17 01:07:00,641 - INFO - ...................
+2025-08-17 01:07:00,641 - INFO - ...................
+2025-08-17 01:07:00,645 - INFO - Starting browser session with firefox...
+2025-08-17 01:07:09,003 - INFO - firefox browser launched successfully.
+2025-08-17 01:07:10,993 - INFO - URL opened successfully.
+2025-08-17 01:07:10,995 - INFO - TC_MB_CUS_005 Started..
+2025-08-17 01:07:10,995 - INFO - Verify customer registration fails with invalid Password (Empty) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 01:07:11,234 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:07:14,418 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:07:14,472 - INFO - Valid Email Enter successfully.
+2025-08-17 01:07:14,497 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 01:07:14,548 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:07:14,666 - INFO - Click on Register button successfully.
+2025-08-17 01:07:14,689 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:07:14,690 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 01:07:14,692 - INFO - Script complete.
+2025-08-17 01:07:18,700 - INFO - Ending browser session...
+2025-08-17 01:07:18,700 - INFO - ...................
+2025-08-17 01:07:18,700 - INFO - ...................
+2025-08-17 01:07:18,707 - INFO - Starting browser session with firefox...
+2025-08-17 01:07:27,177 - INFO - firefox browser launched successfully.
+2025-08-17 01:07:29,363 - INFO - URL opened successfully.
+2025-08-17 01:07:29,364 - INFO - TC_MB_CUS_006 Started..
+2025-08-17 01:07:29,364 - INFO - Verify customer registration fails with invalid Password (< 6 Char) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 01:07:29,543 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:07:31,687 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:07:31,738 - INFO - Valid Email Enter successfully.
+2025-08-17 01:07:31,777 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 01:07:31,819 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:07:31,958 - INFO - Click on Register button successfully.
+2025-08-17 01:07:34,001 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:07:34,002 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 01:07:34,005 - INFO - Script complete.
+2025-08-17 01:07:37,668 - INFO - Ending browser session...
+2025-08-17 01:07:37,669 - INFO - ...................
+2025-08-17 01:07:37,669 - INFO - ...................
+2025-08-17 01:07:37,676 - INFO - Starting browser session with firefox...
+2025-08-17 01:07:46,337 - INFO - firefox browser launched successfully.
+2025-08-17 01:07:48,495 - INFO - URL opened successfully.
+2025-08-17 01:07:48,497 - INFO - TC_MB_CUS_007 Started..
+2025-08-17 01:07:48,497 - INFO - Verify customer registration fails with invalid Initial Deposit Amount (Empty) and valid Full Name, Email Address and Password.
+2025-08-17 01:07:48,734 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:07:50,944 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:07:51,012 - INFO - Valid Email Enter successfully.
+2025-08-17 01:07:51,055 - INFO - Valid Password Enter successfully.
+2025-08-17 01:07:51,093 - INFO - Invalid Initial Deposit Amount (empty) Enter successfully.
+2025-08-17 01:07:51,207 - INFO - Click on Register button successfully.
+2025-08-17 01:07:53,236 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:07:53,774 - INFO - Script complete.
+2025-08-17 01:07:58,453 - INFO - Ending browser session...
+2025-08-17 01:07:58,454 - INFO - ...................
+2025-08-17 01:07:58,454 - INFO - ...................
+2025-08-17 01:24:27,374 - INFO - Starting browser session with firefox...
+2025-08-17 01:24:36,392 - INFO - firefox browser launched successfully.
+2025-08-17 01:24:39,433 - INFO - URL opened successfully.
+2025-08-17 01:24:39,435 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 01:24:39,435 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 01:24:39,667 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:24:41,910 - INFO - Empty Full Name Enter successfully.
+2025-08-17 01:24:42,025 - INFO - Valid Email Enter successfully.
+2025-08-17 01:24:42,098 - INFO - Valid Password Enter successfully.
+2025-08-17 01:24:42,139 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:24:42,250 - INFO - Click on Register button successfully.
+2025-08-17 01:24:42,273 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:24:42,273 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 01:24:42,275 - INFO - Script complete.
+2025-08-17 01:24:46,716 - INFO - Ending browser session...
+2025-08-17 01:24:46,717 - INFO - ...................
+2025-08-17 01:24:46,718 - INFO - ...................
+2025-08-17 01:24:46,729 - INFO - Starting browser session with firefox...
+2025-08-17 01:24:55,637 - INFO - firefox browser launched successfully.
+2025-08-17 01:24:57,696 - INFO - URL opened successfully.
+2025-08-17 01:24:57,698 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 01:24:57,698 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:24:57,848 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:25:00,085 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:25:00,119 - INFO - Empty Email Enter successfully.
+2025-08-17 01:25:00,172 - INFO - Valid Password Enter successfully.
+2025-08-17 01:25:00,225 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:25:00,349 - INFO - Click on Register button successfully.
+2025-08-17 01:25:00,370 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:25:00,371 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 01:25:00,372 - INFO - Script complete.
+2025-08-17 01:25:04,261 - INFO - Ending browser session...
+2025-08-17 01:25:04,261 - INFO - ...................
+2025-08-17 01:25:04,262 - INFO - ...................
+2025-08-17 01:25:04,268 - INFO - Starting browser session with firefox...
+2025-08-17 01:25:13,170 - INFO - firefox browser launched successfully.
+2025-08-17 01:25:15,083 - INFO - URL opened successfully.
+2025-08-17 01:25:15,084 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 01:25:15,085 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:25:15,269 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:25:17,502 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:25:17,568 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 01:25:17,638 - INFO - Valid Password Enter successfully.
+2025-08-17 01:25:17,681 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:25:17,803 - INFO - Click on Register button successfully.
+2025-08-17 01:25:19,404 - ERROR - =======================custom log=========================
+2025-08-17 01:25:19,405 - ERROR - Please include an '@' in the email address. 'test' is missing an '@'.
+2025-08-17 01:25:19,405 - ERROR - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:25:19,418 - ERROR - Please enter an email address.
+2025-08-17 01:25:19,419 - ERROR - =======================custom log=========================
+2025-08-17 01:25:19,433 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:25:19,929 - INFO - Script complete.
+2025-08-17 01:25:24,390 - INFO - Ending browser session...
+2025-08-17 01:25:24,391 - INFO - ...................
+2025-08-17 01:25:24,391 - INFO - ...................
+2025-08-17 01:25:24,396 - INFO - Starting browser session with firefox...
+2025-08-17 01:25:33,606 - INFO - firefox browser launched successfully.
+2025-08-17 01:25:35,730 - INFO - URL opened successfully.
+2025-08-17 01:25:35,732 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 01:25:35,732 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:25:35,925 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:25:39,186 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:25:39,231 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 01:25:39,279 - INFO - Valid Password Enter successfully.
+2025-08-17 01:25:39,322 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:25:39,442 - INFO - Click on Register button successfully.
+2025-08-17 01:25:39,460 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:25:40,062 - INFO - Script complete.
+2025-08-17 01:25:44,280 - INFO - Ending browser session...
+2025-08-17 01:25:44,280 - INFO - ...................
+2025-08-17 01:25:44,280 - INFO - ...................
+2025-08-17 01:25:44,287 - INFO - Starting browser session with firefox...
+2025-08-17 01:31:35,170 - INFO - Starting browser session with firefox...
+2025-08-17 01:31:43,978 - INFO - firefox browser launched successfully.
+2025-08-17 01:31:47,038 - INFO - URL opened successfully.
+2025-08-17 01:31:47,040 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 01:31:47,041 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 01:31:47,256 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:31:49,507 - INFO - Empty Full Name Enter successfully.
+2025-08-17 01:31:49,613 - INFO - Valid Email Enter successfully.
+2025-08-17 01:31:49,657 - INFO - Valid Password Enter successfully.
+2025-08-17 01:31:49,705 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:31:49,815 - INFO - Click on Register button successfully.
+2025-08-17 01:31:49,830 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:31:49,830 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 01:31:49,835 - INFO - Script complete.
+2025-08-17 01:31:54,304 - INFO - Ending browser session...
+2025-08-17 01:31:54,304 - INFO - ...................
+2025-08-17 01:31:54,304 - INFO - ...................
+2025-08-17 01:31:54,310 - INFO - Starting browser session with firefox...
+2025-08-17 01:32:03,398 - INFO - firefox browser launched successfully.
+2025-08-17 01:32:05,674 - INFO - URL opened successfully.
+2025-08-17 01:32:05,676 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 01:32:05,676 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:32:05,928 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:32:08,171 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:32:08,219 - INFO - Empty Email Enter successfully.
+2025-08-17 01:32:08,290 - INFO - Valid Password Enter successfully.
+2025-08-17 01:32:08,337 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:32:08,440 - INFO - Click on Register button successfully.
+2025-08-17 01:32:08,459 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:32:08,459 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 01:32:08,461 - INFO - Script complete.
+2025-08-17 01:32:12,241 - INFO - Ending browser session...
+2025-08-17 01:32:12,241 - INFO - ...................
+2025-08-17 01:32:12,242 - INFO - ...................
+2025-08-17 01:32:12,248 - INFO - Starting browser session with firefox...
+2025-08-17 01:32:21,094 - INFO - firefox browser launched successfully.
+2025-08-17 01:32:24,264 - INFO - URL opened successfully.
+2025-08-17 01:32:24,266 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 01:32:24,266 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:32:24,440 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:32:26,670 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:32:26,713 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 01:32:26,756 - INFO - Valid Password Enter successfully.
+2025-08-17 01:32:26,797 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:32:26,920 - INFO - Click on Register button successfully.
+2025-08-17 01:33:11,084 - ERROR - =======================custom log=========================
+2025-08-17 01:33:11,085 - ERROR - Please include an '@' in the email address. 'test' is missing an '@'.
+2025-08-17 01:33:11,085 - ERROR - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:33:11,112 - ERROR - Please enter an email address.
+2025-08-17 01:33:11,112 - ERROR - =======================custom log=========================
+2025-08-17 01:33:11,129 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:33:54,102 - INFO - Script complete.
+2025-08-17 01:33:58,436 - INFO - Ending browser session...
+2025-08-17 01:33:58,436 - INFO - ...................
+2025-08-17 01:33:58,437 - INFO - ...................
+2025-08-17 01:33:58,442 - INFO - Starting browser session with firefox...
+2025-08-17 01:34:07,995 - INFO - firefox browser launched successfully.
+2025-08-17 01:34:11,377 - INFO - URL opened successfully.
+2025-08-17 01:34:11,379 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 01:34:11,379 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:34:12,005 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:34:15,135 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:34:15,168 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 01:34:15,196 - INFO - Valid Password Enter successfully.
+2025-08-17 01:34:15,276 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:34:15,371 - INFO - Click on Register button successfully.
+2025-08-17 01:34:15,392 - ERROR - Test Failed. Expected Error Message does not match with Actual Error Message.
+2025-08-17 01:34:58,500 - INFO - Script complete.
+2025-08-17 01:35:02,574 - INFO - Ending browser session...
+2025-08-17 01:35:02,574 - INFO - ...................
+2025-08-17 01:35:02,575 - INFO - ...................
+2025-08-17 01:35:02,579 - INFO - Starting browser session with firefox...
+2025-08-17 01:35:15,755 - INFO - Starting browser session with firefox...
+2025-08-17 01:35:25,264 - INFO - firefox browser launched successfully.
+2025-08-17 01:35:28,544 - INFO - URL opened successfully.
+2025-08-17 01:35:28,546 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 01:35:28,546 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 01:35:28,683 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:35:30,954 - INFO - Empty Full Name Enter successfully.
+2025-08-17 01:35:31,075 - INFO - Valid Email Enter successfully.
+2025-08-17 01:35:31,125 - INFO - Valid Password Enter successfully.
+2025-08-17 01:35:31,167 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:35:31,274 - INFO - Click on Register button successfully.
+2025-08-17 01:35:31,297 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:35:31,298 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 01:35:31,299 - INFO - Script complete.
+2025-08-17 01:35:35,395 - INFO - Ending browser session...
+2025-08-17 01:35:35,396 - INFO - ...................
+2025-08-17 01:35:35,396 - INFO - ...................
+2025-08-17 01:35:35,403 - INFO - Starting browser session with firefox...
+2025-08-17 01:35:45,012 - INFO - firefox browser launched successfully.
+2025-08-17 01:35:49,194 - INFO - URL opened successfully.
+2025-08-17 01:35:49,195 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 01:35:49,196 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:35:49,557 - ERROR - Element 'Open Your Account Button' not found with Explicit wait.
+2025-08-17 01:36:28,252 - INFO - Starting browser session with chrome...
+2025-08-17 01:36:32,402 - INFO - chrome browser launched successfully.
+2025-08-17 01:36:32,715 - INFO - URL opened successfully.
+2025-08-17 01:36:32,723 - INFO - TC_MB_CUS_001 Started..
+2025-08-17 01:36:32,723 - INFO - Verify customer registration fails with invalid (Empty) Full Name and valid Email Address, Password and Initial Deposit.
+2025-08-17 01:36:33,769 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:36:36,078 - INFO - Empty Full Name Enter successfully.
+2025-08-17 01:36:36,281 - INFO - Valid Email Enter successfully.
+2025-08-17 01:36:36,505 - INFO - Valid Password Enter successfully.
+2025-08-17 01:36:36,666 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:36:37,755 - INFO - Click on Register button successfully.
+2025-08-17 01:36:37,794 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:36:37,794 - INFO - TC_MB_CUS_001 Completed..
+2025-08-17 01:36:37,797 - INFO - Script complete.
+2025-08-17 01:36:40,353 - INFO - Ending browser session...
+2025-08-17 01:36:40,353 - INFO - ...................
+2025-08-17 01:36:40,353 - INFO - ...................
+2025-08-17 01:36:40,358 - INFO - Starting browser session with chrome...
+2025-08-17 01:36:42,720 - INFO - chrome browser launched successfully.
+2025-08-17 01:36:43,801 - INFO - URL opened successfully.
+2025-08-17 01:36:43,803 - INFO - TC_MB_CUS_002 Started..
+2025-08-17 01:36:43,803 - INFO - Verify customer registration fails with invalid Email Address (Empty) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:36:43,995 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:36:46,372 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:36:46,530 - INFO - Empty Email Enter successfully.
+2025-08-17 01:36:46,775 - INFO - Valid Password Enter successfully.
+2025-08-17 01:36:46,923 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:36:47,096 - INFO - Click on Register button successfully.
+2025-08-17 01:36:47,135 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:36:47,135 - INFO - TC_MB_CUS_002 Completed..
+2025-08-17 01:36:47,136 - INFO - Script complete.
+2025-08-17 01:36:49,808 - INFO - Ending browser session...
+2025-08-17 01:36:49,808 - INFO - ...................
+2025-08-17 01:36:49,809 - INFO - ...................
+2025-08-17 01:36:49,816 - INFO - Starting browser session with chrome...
+2025-08-17 01:36:52,104 - INFO - chrome browser launched successfully.
+2025-08-17 01:36:53,229 - INFO - URL opened successfully.
+2025-08-17 01:36:53,230 - INFO - TC_MB_CUS_003 Started..
+2025-08-17 01:36:53,231 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:36:53,424 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:36:55,875 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:36:56,053 - INFO - Wrong Email (without @) Enter successfully.
+2025-08-17 01:36:56,267 - INFO - Valid Password Enter successfully.
+2025-08-17 01:36:56,455 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:36:56,653 - INFO - Click on Register button successfully.
+2025-08-17 01:36:58,957 - ERROR - =======================custom log=========================
+2025-08-17 01:36:58,957 - ERROR - Please include an '@' in the email address. 'test' is missing an '@'.
+2025-08-17 01:36:58,958 - ERROR - Verify customer registration fails with invalid Email Address (Wrong, without @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:36:58,991 - ERROR - Please include an '@' in the email address. 'test' is missing an '@'.
+2025-08-17 01:36:58,991 - ERROR - =======================custom log=========================
+2025-08-17 01:36:59,017 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:36:59,017 - INFO - TC_MB_CUS_003 Completed..
+2025-08-17 01:36:59,018 - INFO - Script complete.
+2025-08-17 01:37:01,617 - INFO - Ending browser session...
+2025-08-17 01:37:01,617 - INFO - ...................
+2025-08-17 01:37:01,618 - INFO - ...................
+2025-08-17 01:37:01,622 - INFO - Starting browser session with chrome...
+2025-08-17 01:37:03,953 - INFO - chrome browser launched successfully.
+2025-08-17 01:37:04,987 - INFO - URL opened successfully.
+2025-08-17 01:37:04,989 - INFO - TC_MB_CUS_004 Started..
+2025-08-17 01:37:04,989 - INFO - Verify customer registration fails with invalid Email Address (Wrong, without a part following @) and valid Full Name, Password and Initial Deposit.
+2025-08-17 01:37:05,180 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:37:08,597 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:37:08,709 - INFO - Wrong Email (without a part following @) Enter successfully.
+2025-08-17 01:37:08,867 - INFO - Valid Password Enter successfully.
+2025-08-17 01:37:08,998 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:37:09,160 - INFO - Click on Register button successfully.
+2025-08-17 01:37:09,223 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:37:09,223 - INFO - TC_MB_CUS_004 Completed..
+2025-08-17 01:37:09,224 - INFO - Script complete.
+2025-08-17 01:37:11,635 - INFO - Ending browser session...
+2025-08-17 01:37:11,636 - INFO - ...................
+2025-08-17 01:37:11,636 - INFO - ...................
+2025-08-17 01:37:11,644 - INFO - Starting browser session with chrome...
+2025-08-17 01:37:14,009 - INFO - chrome browser launched successfully.
+2025-08-17 01:37:14,391 - INFO - URL opened successfully.
+2025-08-17 01:37:14,396 - INFO - TC_MB_CUS_005 Started..
+2025-08-17 01:37:14,397 - INFO - Verify customer registration fails with invalid Password (Empty) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 01:37:15,263 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:37:18,613 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:37:18,768 - INFO - Valid Email Enter successfully.
+2025-08-17 01:37:18,876 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 01:37:19,035 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:37:19,312 - INFO - Click on Register button successfully.
+2025-08-17 01:37:19,374 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:37:19,374 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 01:37:19,375 - INFO - Script complete.
+2025-08-17 01:37:21,745 - INFO - Ending browser session...
+2025-08-17 01:37:21,745 - INFO - ...................
+2025-08-17 01:37:21,746 - INFO - ...................
+2025-08-17 01:37:21,751 - INFO - Starting browser session with chrome...
+2025-08-17 01:37:24,075 - INFO - chrome browser launched successfully.
+2025-08-17 01:37:25,068 - INFO - URL opened successfully.
+2025-08-17 01:37:25,071 - INFO - TC_MB_CUS_006 Started..
+2025-08-17 01:37:25,071 - INFO - Verify customer registration fails with invalid Password (< 6 Char) and valid Full Name, Email Address and Initial Deposit.
+2025-08-17 01:37:25,262 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:37:27,580 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:37:27,774 - INFO - Valid Email Enter successfully.
+2025-08-17 01:37:27,993 - INFO - Invalid (empty) Password Enter successfully.
+2025-08-17 01:37:28,149 - INFO - Valid Initial Deposit Amount Enter successfully.
+2025-08-17 01:37:28,331 - INFO - Click on Register button successfully.
+2025-08-17 01:37:30,439 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:37:30,439 - INFO - TC_MB_CUS_005 Completed..
+2025-08-17 01:37:30,441 - INFO - Script complete.
+2025-08-17 01:37:32,904 - INFO - Ending browser session...
+2025-08-17 01:37:32,905 - INFO - ...................
+2025-08-17 01:37:32,905 - INFO - ...................
+2025-08-17 01:37:32,910 - INFO - Starting browser session with chrome...
+2025-08-17 01:37:35,286 - INFO - chrome browser launched successfully.
+2025-08-17 01:37:36,287 - INFO - URL opened successfully.
+2025-08-17 01:37:36,288 - INFO - TC_MB_CUS_007 Started..
+2025-08-17 01:37:36,289 - INFO - Verify customer registration fails with invalid Initial Deposit Amount (Empty) and valid Full Name, Email Address and Password.
+2025-08-17 01:37:36,466 - INFO - Open Your Account Button Clicked successfully.
+2025-08-17 01:37:38,907 - INFO - Valid Full Name Enter successfully.
+2025-08-17 01:37:39,114 - INFO - Valid Email Enter successfully.
+2025-08-17 01:37:39,281 - INFO - Valid Password Enter successfully.
+2025-08-17 01:37:39,425 - INFO - Invalid Initial Deposit Amount (empty) Enter successfully.
+2025-08-17 01:37:40,132 - INFO - Click on Register button successfully.
+2025-08-17 01:37:42,244 - INFO - Test Passed. Expected Error Message match with Actual Error Message.
+2025-08-17 01:37:42,245 - INFO - TC_MB_CUS_007 Completed..
+2025-08-17 01:37:42,249 - INFO - Script complete.
+2025-08-17 01:37:44,711 - INFO - Ending browser session...
+2025-08-17 01:37:44,712 - INFO - ...................
+2025-08-17 01:37:44,712 - INFO - ...................

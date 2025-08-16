@@ -75,8 +75,9 @@ def test_tc_mb_cus_001(browser_config, test_case):
 
     else:
         logging.error("Test Failed. Expected Error Message does not match with Actual Error Message.")
-        pytest.fail("Test Failed. Expected Error Message does not match with Actual Error Message.")
         # Screenshot
         capture_full_page_screenshot(driver, "TC_MB_CUS_001")
+        pytest.fail("Test Failed. Expected Error Message does not match with Actual Error Message.")
+
 
     logging.info("TC_MB_CUS_001 Completed..")

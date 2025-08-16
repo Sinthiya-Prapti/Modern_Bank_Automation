@@ -70,14 +70,23 @@ def test_tc_mb_cus_003(browser_config, test_case):
 
     # Validate Error Message
     expected_error_message = test_case["customer"][2]["TC_CUS_003"]["expected_result"]
+    time.sleep(1)
+    capture_full_page_screenshot(driver, "TC_MB_CUS_003_Popup_Email")
+    logging.error("=======================custom log=========================")
+    logging.error(expected_error_message)
+    logging.error(test_case["customer"][2]["TC_CUS_003"]["_comment"])
+    logging.error(customer_registration_page.get_html_popup_error_message("Email"))
+    logging.error("=======================custom log=========================")
 
     if expected_error_message == customer_registration_page.get_html_popup_error_message("Email"):
         logging.info("Test Passed. Expected Error Message match with Actual Error Message.")
 
     else:
         logging.error("Test Failed. Expected Error Message does not match with Actual Error Message.")
-        pytest.fail("Test Failed. Expected Error Message does not match with Actual Error Message.")
         # Screenshot
         capture_full_page_screenshot(driver, "TC_MB_CUS_003")
+
+        pytest.fail("Test Failed. Expected Error Message does not match with Actual Error Message.")
+
 
     logging.info("TC_MB_CUS_003 Completed..")
