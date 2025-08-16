@@ -3,7 +3,7 @@ import datetime
 import logging
 
 
-def generate_bug_report(test_case, actual_message, expected_message, screenshot_path, test_case_name="TC_TB_003"):
+def generate_bug_report(test_case, actual_message, expected_message, screenshot_path, test_case_name="test_TC_MB_MAN_005"):
     """
     Generates a formatted bug report string with details from the test case.
     """
@@ -13,10 +13,11 @@ Test Case: {test_case_name}
 Description: An invalid booking scenario failed as the expected error message did not match the actual message.
 --------------------------------------------
 Test Data:
-  Tickets: {test_case.get("tickets")}
-  Class Value: {test_case.get("class_value")}
-  User Value: {test_case.get("user_value")}
-  Promo Code: {test_case.get("promo_code")}
+  Full Name: {test_case.get("fullname")}
+  Email: {test_case.get("email")}
+  Password: {test_case.get("pass")}
+  Deposit Amount: {test_case.get("deposit_amount")}
+  Message: {test_case.get("expected_result")}
 --------------------------------------------
 Validation Failure:
   Expected Message: {expected_message}
